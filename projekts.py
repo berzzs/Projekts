@@ -1,0 +1,2 @@
+print("Čau")
+print("Sveiki")
